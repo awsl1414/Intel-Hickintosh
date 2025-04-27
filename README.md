@@ -15,18 +15,13 @@
 
 ## 细节
 
-**OpenCore**：0.99
+**OpenCore**：1.0.4
 
 ## 问题
 
 - 开机音频问题
 - 隔空投送无法找到设备
 
-## 提示
-
-- 此 EFI 适用于`ventura`，`monterey`, `sonoma`，不同系统需不同 `wifi` 驱动（AirportItlwm - intel）。
-- Sonoma 14 与 Sonoma 14.4 `wifi` 驱动也不相同。
-- 更新 14.4 之前，建议更新 OpenCore 和主要 Kext 到最新版本，且强烈建议关闭 SecureBootModel，否则可能更新失败，该选项位于 config.plist → Misc → Security，更新完成后可再次开启。
 
 ## 相关文档
 
