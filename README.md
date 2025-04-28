@@ -1,4 +1,4 @@
-# Intel 12/13/14代 Hickintosh
+# Intel 13/14代 Hickintosh
 
 ## 配置详情
 
@@ -9,7 +9,7 @@
 
 ## 细节
 
-**OpenCore**：1.04
+**OpenCore**：1.0.4
 
 
 ## 提示
