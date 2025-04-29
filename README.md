@@ -13,6 +13,8 @@
 
 **OpenCore**：1.0.4
 
+> 提示：Sequoia 请使用 OCLP-MOD 修补系统以修复 intel 蓝牙和 WIFI
+
 
 ## 相关文档
 
@@ -20,6 +22,8 @@
 - [Opencore](https://oc.skk.moe/)参考手册
 - [国光黑苹果](https://apple.sqlsec.com/)
 - [itlwm](https://github.com/OpenIntelWireless/itlwm) - intel 网卡驱动
+- [OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)
+- [OCLP-Mod](https://github.com/laobamac/OCLP-Mod)
 
 ## 最后
 
